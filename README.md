@@ -1,4 +1,4 @@
-# app-pearl-jam
+# app_pearl_jam
 
 Spotify + Python + Pearl Jam
 
