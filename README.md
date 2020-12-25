@@ -1,6 +1,6 @@
 # app_pearl_jam
 
-Spotify + Python + Pearl Jam
+Spotify + Python + Pearl Jam 🤘🏼
 
 Essa é uma aplicação publicada no Heroku do projeto de análise dos dados com Python dos álbuns da banda Pearl Jam no Spotify.
 
